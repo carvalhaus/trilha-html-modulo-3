@@ -9,6 +9,9 @@ Este desafio consiste em treinar você com relação a estrutura do site, e tamb
 Neste desafio de recriação da página da Wikipédia utilizando os conceitos de HTML apresentados e ensinos nesta trilha. Tomei como exemplo a página com informações da série de TV 'Breaking Bad'.
 Foi fornecida uma estrutura "pré-montada" de um layout simples aplicado em CSS, no qual realizei algumas alterações para melhorar a apresentação da página.
 
+## Resultado final
+[Clique aqui](https://carvalhaus.github.io/trilha-html-modulo-3/) para conferir o resultado deste desafio.
+
 ## Links úteis
 - [Wikipedia](https://pt.wikipedia.org/)
 - [Breaking Bad](https://pt.wikipedia.org/wiki/Breaking_Bad)
