@@ -15,5 +15,6 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
+- [Braking Bad](https://pt.wikipedia.org/wiki/Breaking_Bad)
 
 
