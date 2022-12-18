@@ -6,15 +6,11 @@
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 
 ## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
-
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
-
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+Neste desafio de recriação da página da Wikipédia utilizando os conceitos de HTML apresentados e ensinos nesta trilha. Tomei como exemplo a página com informações da série de TV 'Breaking Bad'.
+Foi fornecida uma estrutura "pré-montada" de um layout simples aplicado em CSS, no qual realizei algumas alterações para melhorar a apresentação da página.
 
 ## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
-- [Braking Bad](https://pt.wikipedia.org/wiki/Breaking_Bad)
+- [Breaking Bad](https://pt.wikipedia.org/wiki/Breaking_Bad)
 
 
